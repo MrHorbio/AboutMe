@@ -11,6 +11,6 @@ My skillset 🛠️
 + ✔️OSINT
 + ✔️LINUX
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fprogrammer&psig=AOvVaw2ZHMkHJNvmtJiFQHIbiHwZ&ust=1720718308172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODms7D9nIcDFQAAAAAdAAAAABAE">
+
 
   
